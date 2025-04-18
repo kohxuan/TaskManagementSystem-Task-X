@@ -15,6 +15,15 @@ The **Task Management System** is a web-based application designed to allow user
 - **Responsive Design**: Utilizes Bootstrap for a responsive and modern design, ensuring usability across devices.
 <br>
 
+### 🎥 Demo Video
+Watch the demo video [here](https://youtu.be/zvhwLsuoxTA).
+<p align="center">
+    <a href="https://youtu.be/zvhwLsuoxTA">
+        <img src="https://github.com/user-attachments/assets/00b65cc3-85be-4e53-938a-c1c3fa93ef9c" alt="Watch the video" width="400"/>
+    </a>
+</p>
+<br>
+
 ### 🛠️ Technical Overview
 - **PHP**: Handles server-side operations, form submissions, and database interactions.
 - **MySQL**: Securely stores task data with user-specific management.
